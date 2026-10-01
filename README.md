@@ -1,260 +1,91 @@
 <div align="center">
 
-# 👩🏻‍💻 Luana Vitoria
+# Luana Vitoria
 
-### Software Engineering Student · Data · Business Intelligence · AI
+### Software Engineering Student | Data & AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%92%BB;Exploring+Data+%26+Business+Intelligence+%F0%9F%93%8A;Learning+Python+%26+Web+Development+%F0%9F%90%8D;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+my+path+in+Technology+%F0%9F%9A%80" alt="Typing animation"/>
-
-<br>
-
-<a href="https://github.com/lluavit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/)
+[![GitHub](https://img.shields.io/badge/GitHub-lluavit-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/lluavit)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
-I'm a **Software Engineering student** interested in the intersection of **technology, data, business and artificial intelligence**.
+I'm a Software Engineering student interested in **Data, Business Intelligence, Technology and Artificial Intelligence**.
 
-I have professional experience in administrative processes, where I work with **data organization, reports, spreadsheets, process support and information analysis**.
+I have a background in administrative processes and hands-on experience with **Excel, data organization, reports and process improvement**. I'm currently expanding my technical skills through Software Engineering, Python, Power BI and web development.
 
-My background in administration has helped me develop a practical understanding of business processes, while my degree is helping me build a stronger technical foundation.
-
-Currently, I'm developing my skills in **Data Analysis, Business Intelligence, Python, Web Development and Artificial Intelligence**.
-
-```python
-luana = {
-    "education": "Software Engineering",
-    "focus": [
-        "Technology",
-        "Data",
-        "Business Intelligence",
-        "Artificial Intelligence"
-    ],
-    "experience": "Administrative & Data-related processes",
-    "currently_learning": [
-        "Python",
-        "Power BI",
-        "Power Query",
-        "Web Development",
-        "Artificial Intelligence"
-    ],
-    "goal": "Connect technology, data and business"
-}
-```
+I'm interested in opportunities where I can combine **technology, data and business** to solve problems and improve processes.
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
-### 💻 Programming & Web
+**Data & Business Intelligence**
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=flat-square\&logo=microsoft\&logoColor=white)
 
-### 📊 Data & Business Intelligence
+**Programming & Web**
 
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 
-### 🧰 Tools
+**Tools**
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
+### Delivery Web Project
 
-<td width="50%" valign="top">
+A responsive delivery website developed with **HTML, CSS and JavaScript**.
 
-## 🛵 Delivery Web Project
+→ [View repository](https://github.com/lluavit/Trabalho-UC2)
 
-A web project developed during my Software Engineering studies.
+### Corinthians Data Project
 
-**Technologies**
+A data-focused project exploring **Corinthians statistics and information**, with an emphasis on data organization and analysis.
 
-`HTML5` · `CSS3` · `JavaScript`
-
-The project focuses on building a web interface for a delivery service.
-
-<br>
-
-<a href="https://github.com/lluavit/Trabalho-UC2">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚽ Corinthians Data Project
-
-A data-oriented project focused on organizing and exploring **Corinthians-related statistics and information**.
-
-The project explores how structured data can be organized and presented to make information easier to understand.
-
-<br>
-
-<a href="https://github.com/lluavit">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+→ [View repositories](https://github.com/lluavit?tab=repositories)
 
 ---
 
-# 📚 Currently Learning
+## Currently Learning
+
+* Python
+* Data Analysis
+* Power BI & Power Query
+* Artificial Intelligence
+* Web Development
+* Software Engineering
+
+---
+
+## Areas of Interest
+
+`Data Analysis` · `Business Intelligence` · `Artificial Intelligence` · `Technology` · `Software Engineering`
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, building projects and connecting with people in technology.
+
+**LinkedIn:** [Luana Vitoria](https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/)
+**GitHub:** [@lluavit](https://github.com/lluavit)
 
 <div align="center">
 
-| Technology / Area              | Focus                                       |
-| :----------------------------- | :------------------------------------------ |
-| 🤖 **Artificial Intelligence** | AI tools, applications & productivity       |
-| 📊 **Data Analysis**           | Data organization, analysis & visualization |
-| 📈 **Power BI**                | Dashboards & Business Intelligence          |
-| 🔄 **Power Query**             | Data transformation                         |
-| 🐍 **Python**                  | Programming fundamentals                    |
-| 🌐 **Web Development**         | HTML, CSS & JavaScript                      |
-| 🇪🇸 **Spanish**               | Language development                        |
-
-</div>
-
----
-
-# 🎯 Areas of Interest
-
-<div align="center">
-
-### 📊 Data Analysis
-
-### 📈 Business Intelligence
-
-### 🤖 Artificial Intelligence
-
-### 💻 Software Development
-
-### ⚙️ Process Automation
-
-### 🔎 Technology & Business
-
-</div>
-
----
-
-# 🧭 My Journey
-
-```text
-        Administrative Experience
-                    │
-                    ▼
-             Excel & Data
-                    │
-                    ▼
-          Data Analysis / BI
-                    │
-                    ▼
-         Software Engineering
-                    │
-                    ▼
-          Technology + Data + AI
-```
-
-My goal is to build a career in technology while exploring the connection between **software, data and artificial intelligence**.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lluavit&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluavit&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lluavit&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🧩 Skills in Progress
-
-```text
-Python             ███████░░░  Learning
-Power BI            ███████░░░  Learning
-Power Query         ███████░░░  Learning
-JavaScript          ██████░░░░  Learning
-HTML & CSS          ███████░░░  Learning
-Git & GitHub        ██████░░░░  Learning
-Data Analysis       ███████░░░  Developing
-Artificial Intelligence ██████░░  Exploring
-```
-
----
-
-# 🌎 Languages
-
-🇧🇷 **Portuguese** — Native
-
-🇪🇸 **Spanish** — Basic / Currently learning
-
-🇺🇸 **English** — Basic
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/lluavit">
-<img src="https://img.shields.io/badge/GitHub-lluavit-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/">
-<img src="https://img.shields.io/badge/LinkedIn-Luana%20Vitoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lluavit&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-### `✨ Always learning. Always building. Always evolving.`
+### Building my path in technology, one project at a time.
 
 </div>
