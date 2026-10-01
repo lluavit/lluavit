@@ -1,25 +1,26 @@
-<div align="center">
-
-# Luana Vitoria
-
-### Software Engineering Student | Data & AI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/)
-[![GitHub](https://img.shields.io/badge/GitHub-lluavit-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/lluavit)
-
-</div>
-
----
+<table>
+<tr>
+<td width="52%" valign="top">
 
 ## About Me
 
-I'm a Software Engineering student interested in **Data, Business Intelligence, Technology and Artificial Intelligence**.
+Software Engineering student focused on **Data, Business Intelligence, Technology and Artificial Intelligence**.
 
-I have a background in administrative processes and hands-on experience with **Excel, data organization, reports and process improvement**. I'm currently expanding my technical skills through Software Engineering, Python, Power BI and web development.
+I have professional experience with **Excel, data organization, reporting and process improvement**.
 
-I'm interested in opportunities where I can combine **technology, data and business** to solve problems and improve processes.
+Currently developing my technical skills through **software engineering, data analysis and technology projects**.
 
----
+Interested in combining **technology, data and business** to solve problems and improve processes.
+
+### Areas of Interest
+
+`Data Analysis` · `Business Intelligence`
+`Artificial Intelligence` · `Software Engineering`
+`Technology` · `Business`
+
+</td>
+
+<td width="48%" valign="top">
 
 ## Tech Stack
 
@@ -42,50 +43,57 @@ I'm interested in opportunities where I can combine **technology, data and busin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
----
-
-## Featured Projects
-
-### Delivery Web Project
-
-A responsive delivery website developed with **HTML, CSS and JavaScript**.
-
-→ [View repository](https://github.com/lluavit/Trabalho-UC2)
-
-### Corinthians Data Project
-
-A data-focused project exploring **Corinthians statistics and information**, with an emphasis on data organization and analysis.
-
-→ [View repositories](https://github.com/lluavit?tab=repositories)
+</td>
+</tr>
+</table>
 
 ---
 
 ## Currently Learning
 
-* Python
-* Data Analysis
-* Power BI & Power Query
-* Artificial Intelligence
-* Web Development
-* Software Engineering
+`Python` · `Data Analysis` · `Power BI` · `Power Query` · `Artificial Intelligence` · `Web Development`
 
 ---
 
-## Areas of Interest
+## Featured Projects
 
-`Data Analysis` · `Business Intelligence` · `Artificial Intelligence` · `Technology` · `Software Engineering`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Delivery Web Project
+
+A web project developed with **HTML, CSS and JavaScript**, focused on building a responsive delivery interface.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+[View Repository →](https://github.com/lluavit/Trabalho-UC2)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Corinthians Data Project
+
+A data project focused on **Corinthians statistics and information**, exploring data organization and analysis.
+
+**Focus:** `Data` `Analysis` `Statistics`
+
+[View Projects →](https://github.com/lluavit?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Let's Connect
 
-I'm always interested in learning, building projects and connecting with people in technology.
-
-**LinkedIn:** [Luana Vitoria](https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/)
-**GitHub:** [@lluavit](https://github.com/lluavit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luana_Vitoria-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luana-vitoria-concei%C3%A7%C3%A3o-sabino/)
+[![GitHub](https://img.shields.io/badge/GitHub-lluavit-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/lluavit)
 
 <div align="center">
 
-### Building my path in technology, one project at a time.
+**Building my path in technology through data, code and continuous learning.**
 
 </div>
